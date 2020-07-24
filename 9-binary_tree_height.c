@@ -2,7 +2,7 @@
 #include "4-binary_tree_is_leaf.c"
 
 /**
- * binary_tree_height - measures the height of a binary tree
+ * binary_tree_height - a function that measures the height of a binary tree
  * @tree: a pointer to the root node of the tree to measure the height
  * Return: the height of tree, or 0 if NULL
  */
